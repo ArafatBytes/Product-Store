@@ -1,6 +1,6 @@
-# Product Store
+# Wardiere
 
-Product Store is a simple MERN stack project that allows users to add, update, and delete product information.
+Wardiere is a simple MERN stack project that allows users to add, update, and delete product information.
 
 ## Features
 
